@@ -1,0 +1,2 @@
+rootProject.name='TabuCuk'
+include ':app'
